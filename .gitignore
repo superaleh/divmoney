@@ -1,0 +1,9 @@
+env
+.vscode
+.pytest_cache
+.env
+ngrok.exe
+*.log
+*.pyc
+__pycache__
+db.sqlite

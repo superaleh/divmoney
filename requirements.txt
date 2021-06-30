@@ -1,0 +1,16 @@
+python-dotenv
+
+# Django
+django
+gunicorn
+
+# Databases
+psycopg2-binary
+dj-database-url
+
+# Telegram
+pyTelegramBotAPI
+
+# Test
+pytest-django
+factory_boy
